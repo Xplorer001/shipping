@@ -1,0 +1,76 @@
+Country code,Name,Base,Additonal
+4,Afghanistan,638,52
+36,Australia,630,155
+40,Austria,905,90
+48,Bahrain,680,50
+50,Bangladesh,485,35
+52,Barbados,615,165
+60,Bermuda,725,150
+64,Bhutan,485,35
+72,Botswana,950,110
+96,Brunei Darussalam,515,65
+100,Bulgaria,650,85
+112,Belarus,930,85
+116,Cambodia,505,55
+124,Canada,930,165
+136,Cayman Islands,780,175
+156,China,515,65
+158,"Taiwan, Province of China",515,75
+192,Cuba,875,190
+196,Cyprus,760,75
+231,Ethiopia,995,75
+232,Eritrea,760,75
+233,Estonia,755,75
+242,Fiji,595,150
+250,France,1045,105
+268,Georgia,910,50
+276,Germany,1053,100
+288,Ghana,570,125
+300,Greece,925,85
+344,Hong Kong,745,60
+348,Hungary,930,90
+352,Iceland,960,115
+372,Ireland,1030,110
+376,Israel,760,75
+380,Italy,975,95
+392,Japan,540,90
+400,Jordan,760,75
+404,Kenya,925,80
+410,"Korea, Republic of",525,75
+428,Latvia,695,90
+446,Macao,510,60
+454,Malawi,700,95
+458,Malaysia,900,55
+480,Mauritius,765,80
+496,Mongolia,670,65
+504,Morocco,800,115
+512,Oman,650,50
+516,Namibia,640,110
+520,Nauru,580,150
+524,Nepal,485,35
+528,Netherlands,1050,100
+554,New Zealand,520,185
+578,Norway,1310,100
+586,Pakistan,490,40
+608,Philippines,640,75
+616,Poland,775,90
+620,Portugal,720,115
+634,Qatar,740,55
+642,Romania,1005,80
+643,Russian Federation,1315,80
+686,Senegal,820,150
+702,Singapore,670,60
+704,Vietnam,505,55
+710,South Africa,0,100
+724,Spain,795,110
+729,Sudan,920,80
+756,Switzerland,1175,100
+764,Thailand,500,50
+784,United Arab Emirates,895,50
+792,Turkey,645,80
+800,Uganda,930,85
+804,Ukraine,925,80
+818,Egypt,730,75
+826,United Kingdom,955,105
+834,"Tanzania, United Republic of",770,85
+840,United States,585,165
